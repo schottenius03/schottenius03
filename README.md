@@ -9,6 +9,7 @@ Final-year Bachelor student focused on creating mobile and web applications with
 
 ## 🛠 Tech Stack
 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,10 +22,14 @@ Final-year Bachelor student focused on creating mobile and web applications with
 ![Jinja2](https://img.shields.io/badge/Jinja2-FF5722?style=for-the-badge&logo=jinja&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jetpack Navigation](https://img.shields.io/badge/Jetpack%20Navigation-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-FF6F00?style=for-the-badge&logo=network?&logoColor=white)
 ![RIP](https://img.shields.io/badge/RIP-FF6F00?style=for-the-badge&logo=network?&logoColor=white)
+![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![ViewModel](https://img.shields.io/badge/ViewModel-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![VLSM](https://img.shields.io/badge/VLSM-6A1B9A?style=for-the-badge&logo=network?&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 
