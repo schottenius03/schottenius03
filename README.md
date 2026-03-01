@@ -21,17 +21,19 @@ Final-year Bachelor student focused on creating mobile and web applications with
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jetpack Navigation](https://img.shields.io/badge/Jetpack%20Navigation-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![LiveData](https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-43853D?style=for-the-badge&logo=apple&logoColor=white)
 ![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RecyclerView](https://img.shields.io/badge/RecyclerView-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![Storyboards](https://img.shields.io/badge/Storyboards-FF6F00?style=for-the-badge&logo=apple&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![ViewModel](https://img.shields.io/badge/ViewModel-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-FF5722?style=for-the-badge&logo=jinja&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![iOS Simulator](https://img.shields.io/badge/iOS%20Simulator-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🌐 Networking & Databases
 
