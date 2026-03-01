@@ -26,6 +26,8 @@ Final-year Bachelor student focused on creating mobile and web applications with
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-FF5722?style=for-the-badge&logo=jinja&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ## 🌐 Networking & Databases
 
