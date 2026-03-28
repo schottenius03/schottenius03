@@ -7,32 +7,39 @@ Final-year Bachelor student focused on creating mobile and web applications with
 
 ***
 
-## 🛠 Programming & Development
+## 🖥 Programming Languages
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-![Auto Layout](https://img.shields.io/badge/Auto%20Layout-FF6F00?style=for-the-badge&logo=apple&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript (React)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+## ⚙ Frameworks & Libraries
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jetpack Navigation](https://img.shields.io/badge/Jetpack%20Navigation-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![LiveData](https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RecyclerView](https://img.shields.io/badge/RecyclerView-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Storyboards](https://img.shields.io/badge/Storyboards-FF6F00?style=for-the-badge&logo=apple&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![ViewModel](https://img.shields.io/badge/ViewModel-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=white)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-FF5722?style=for-the-badge&logo=jinja&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+## 🛠 Tools & Platforms
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=white)
+![Auto Layout](https://img.shields.io/badge/Auto%20Layout-FF6F00?style=for-the-badge&logo=apple&logoColor=white)
+![Storyboards](https://img.shields.io/badge/Storyboards-FF6F00?style=for-the-badge&logo=apple&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS Simulator](https://img.shields.io/badge/iOS%20Simulator-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🌐 Networking & Databases
