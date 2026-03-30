@@ -18,6 +18,12 @@ Final-year Bachelor student focused on creating mobile and web applications with
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
+***
+
+### 📬 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/kailing-schottenius/) | 🌐 [Portfolio](https://schottenius03.github.io/portfolio/)
+
 <!--
 **schottenius03/schottenius03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
