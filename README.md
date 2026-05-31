@@ -1,5 +1,13 @@
-# Hi, I'm Kailing 👋
-Final year Bachelor student focused on creating mobile and web applications within software development.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/schottenius03/schottenius03/metrics/metrics-left.svg" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/schottenius03/schottenius03/metrics/metrics-right.svg" />
+    </td>
+  </tr>
+</table>
 
 ***
 
