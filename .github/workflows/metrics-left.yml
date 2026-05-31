@@ -1,0 +1,33 @@
+name: Metrics Left Column
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # AEDT summer time
+    - cron: "0 14 * * *" # AEST winter time
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: schottenius03
+          filename: metrics-left.svg
+          template: classic
+
+          # Sydney timezone
+          config_timezone: Australia/Sydney
+
+          # User profile
+          base: header, repositories
+
+          committer_branch: metrics
