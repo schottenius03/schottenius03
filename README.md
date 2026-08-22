@@ -1,9 +1,11 @@
 <table>
   <tr>
     <td valign="top" width="50%">
+      <!-- Metrics Left -->
       <img src="https://raw.githubusercontent.com/schottenius03/schottenius03/metrics/metrics-left.svg" />
     </td>
     <td valign="top" width="50%">
+      <!-- Metrics Right -->
       <img src="https://raw.githubusercontent.com/schottenius03/schottenius03/metrics/metrics-right.svg" />
     </td>
   </tr>
@@ -13,6 +15,7 @@
 
 ### 👨‍💻 Web Designer & 📱 Mobile App Developer
 🌍 **Relocating to Europe Sep 2026**  
+✨ **Currently building [KitScope](https://kitscope.com/) (Early Access)**
 
 ***
 
@@ -53,4 +56,4 @@
 
 ### 📬 Connect with Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/kailing-schottenius/) | 🌐 [Portfolio](https://schottenius03.github.io/portfolio/)
+💼 [LinkedIn](https://www.linkedin.com/in/kailing-schottenius/) | 🌐 [Portfolio](https://schottenius03.github.io/portfolio/) | 🧵 [KitScope](https://kitscope.com/)
