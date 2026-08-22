@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Web Designer & 📱 Mobile App Developer
 🌍 **Relocating to Europe Sep 2026**  
-✨ **Currently building [KitScope](https://kitscope.com/) (Early Access)**
+✨ **Currently building [KitScope](https://kitscope.com/)**
 
 ***
 
