@@ -14,8 +14,8 @@
 ***
 
 ### 👨‍💻 Web Designer & 📱 Mobile App Developer
-🌍 **Relocating to Europe Sep 2026**  
-✨ **Currently building [KitScope](https://kitscope.com/)**
+🌍 **Based in Auckland, New Zealand** (Working Holiday Visa / Full Work Rights)  
+✨ **Building & running [KitScope](https://kitscope.com/)**
 
 ***
 
